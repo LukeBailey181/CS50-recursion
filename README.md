@@ -1,2 +1,2 @@
 # CS50-recursion
-Factorial recursion code 
+Very simple factorial recursion code for instructional purposes
